@@ -1,12 +1,12 @@
-.one {
-    color: #ffffff;
-    background-color: #000000;
+.first-button {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
 }
-.two {
-    background-color: #e5ff00;
+.second-button {
+    background-color: hsl(59, 85%, 46%);
 }
-.one,
-.two {
-    font-size: 28px;
+.first-button,
+.second-button {
     font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
 }
